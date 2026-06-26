@@ -12,5 +12,5 @@ public interface Fila <T>{
    void peekDaFila();
    void fILO();
    void reverse();
-   void adicionarComPrioridade(T valor, int prioridade);
+
 }

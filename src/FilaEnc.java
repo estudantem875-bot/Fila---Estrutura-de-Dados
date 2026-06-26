@@ -169,10 +169,6 @@ public class FilaEnc<T> implements Fila<T> {
         imprimirEnc();
     }
 
-    @Override
-    public void adicionarComPrioridade(T valor , int prioridade){
-
-    }
 
 
 }
